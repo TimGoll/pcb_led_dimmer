@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name solder_pad)(type KiCad)(uri ${KIPRJMOD}/lib/solder_pad.pretty)(options "")(descr ""))
+  (lib (name poti_switch)(type KiCad)(uri ${KIPRJMOD}/lib/poti_switch.pretty)(options "")(descr ""))
+)
